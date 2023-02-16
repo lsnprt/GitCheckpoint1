@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitCheckpoint1", "GitCheckpoint1\GitCheckpoint1.csproj", "{C101BE9C-B94B-4BAB-A55F-986233751D58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C101BE9C-B94B-4BAB-A55F-986233751D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C101BE9C-B94B-4BAB-A55F-986233751D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C101BE9C-B94B-4BAB-A55F-986233751D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C101BE9C-B94B-4BAB-A55F-986233751D58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4116E8D7-5D3B-416E-AE7D-800E6FC5D2D9}
+	EndGlobalSection
+EndGlobal
